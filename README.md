@@ -41,8 +41,7 @@ Menampilkan perbedaan total penyewaan sepeda berdasarkan kategori kondisi cuaca.
 3. Menyesuaikan format tanggal dan mengurutkan data.
 4. Mengelompokkan data sesuai kebutuhan analisis.
 5. Membuat visualisasi menggunakan Matplotlib.
-6. Menambahkan judul, label sumbu, legenda, dan angka pada grafik.
-7. Menginterpretasikan hasil visualisasi.
+6. Menginterpretasikan hasil visualisasi.
 
 ## Kesimpulan
 Visualisasi data Bike Sharing membantu menyajikan informasi penyewaan sepeda dalam bentuk yang lebih mudah dipahami. Penggunaan grafik garis dan grafik batang memungkinkan pengamatan tren serta perbandingan jumlah penyewaan berdasarkan waktu, kategori pengguna, dan kondisi cuaca.
